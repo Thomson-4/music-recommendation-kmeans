@@ -162,15 +162,6 @@ Cluster: 0 (Energetic / Electronic)
 
 ---
 
-## Academic Details
-
-- **Institution:** REVA University, Bengaluru
-- **Course:** Machine Learning Applications (MLA)
-- **Academic Year:** 2024–25
-- **Semester:** 4th
-
----
-
 ## Author
 
 **Thomson Sunny**  
